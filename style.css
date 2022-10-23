@@ -1,0 +1,13 @@
+@media screen and (min-width: 600px){
+    body {
+      background-color: rgb(166, 219, 255);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body {
+      background-color: rgb(255, 248, 153);
+    }
+}
+
+/*I did this by using media queries. I set a restriction on the max width of the screen to change the background colors.*/
